@@ -18,7 +18,7 @@
         android:text="choose what you need" />
 
        <LinearLayout
-           android:id="@+id/linerLylFindAJob"
+           android:id="@+id/linerLylOptionOne"
            android:layout_width="300dp"
            android:layout_height="wrap_content"
            android:layout_below="@id/txtTitle"
@@ -45,7 +45,7 @@
 
        </LinearLayout>
        <LinearLayout
-           android:id="@+id/linerLylFindAnEmployee"
+           android:id="@+id/linerLylOptionTwo"
            android:layout_width="300dp"
            android:layout_height="wrap_content"
            android:layout_below="@id/linerLylFindAJob"
